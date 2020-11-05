@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on becoming a full-stack software engineer.  I am attending **App Academy**
-- 🌱 I’m currently learning **JavaScript**, **Python**, **HTML**, **CSS**, **NodeJS**, **DiscordJS**
+- 🌱 I’m currently learning **JavaScript**, **React.js**, **Redux.js**, **Python**, **CSS**, **Node.js**, **Discord.js**
 - 👯 I’m looking to collaborate on projects involving **audio production** or **gaming**
 - 🤔 I’m looking for help with creating a multiplayer text-based game similar to old school **MUDs(Multi-User Dungeon)**
 - 💬 Ask me about anything!
